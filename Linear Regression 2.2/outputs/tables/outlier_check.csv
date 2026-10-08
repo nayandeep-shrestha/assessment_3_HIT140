@@ -1,0 +1,7 @@
+variable,lower_fence,upper_fence,rows_flagged,flagged_values
+team_fifa_points,1145.77,2104.66,0,
+opp_fifa_points,1145.77,2104.66,0,
+team_gf_L10,-0.5,4.3,0,
+opp_ga_L10,-0.25,1.75,7,New Zealand: 1.8 (3rows); Sweden: 2 (4rows)
+rest_days,3.5,7.5,3,Australia: 8 (1rows); England: 3 (1rows); Switzerland: 8 (1rows)
+team_wc_appearances,-13.5,30.5,0,

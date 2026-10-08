@@ -1,0 +1,9 @@
+variable,VIF,verdict
+team_fifa_points,3.411,Fine (<5)
+opp_fifa_points,1.631,Fine (<5)
+team_gf_L10,1.82,Fine (<5)
+opp_ga_L10,1.465,Fine (<5)
+is_host,1.141,Fine (<5)
+is_knockout,1.371,Fine (<5)
+rest_days,1.164,Fine (<5)
+team_wc_appearances,2.614,Fine (<5)

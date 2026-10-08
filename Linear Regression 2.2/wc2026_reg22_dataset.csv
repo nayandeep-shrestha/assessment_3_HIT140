@@ -1,0 +1,209 @@
+match_id,team,opponent,stage,team_fifa_points,opp_fifa_points,team_gf_L10,opp_ga_L10,is_host,is_knockout,rest_days,team_wc_appearances,goals_scored
+2026-M001-MEX-RSA,Mexico,South Africa,Group Stage,1687.48,1428.38,1.6,1,1,0,5,17,2
+2026-M001-MEX-RSA,South Africa,Mexico,Group Stage,1428.38,1687.48,1.5,0.4,0,0,5,3,0
+2026-M002-KOR-CZE,Czechia,Korea Republic,Group Stage,1505.74,1591.63,2.2,1.2,0,0,5,9,1
+2026-M002-KOR-CZE,Korea Republic,Czechia,Group Stage,1591.63,1505.74,1.5,0.9,0,0,5,11,2
+2026-M003-CAN-BIH,Bosnia and Herzegovina,Canada,Group Stage,1387.22,1559.48,2,0.4,0,0,5,1,1
+2026-M003-CAN-BIH,Canada,Bosnia and Herzegovina,Group Stage,1559.48,1387.22,1.1,1,1,0,5,2,1
+2026-M004-USA-PAR,Paraguay,USA,Group Stage,1505.35,1671.23,1.2,1.7,0,0,5,8,1
+2026-M004-USA-PAR,USA,Paraguay,Group Stage,1671.23,1505.35,1.8,1,1,0,5,11,4
+2026-M005-HAI-SCO,Haiti,Scotland,Group Stage,1293.1,1503.34,1.5,1,0,0,5,1,0
+2026-M005-HAI-SCO,Scotland,Haiti,Group Stage,1503.34,1293.1,2.1,1,0,0,5,8,1
+2026-M006-AUS-TUR,Australia,Turkiye,Group Stage,1579.34,1605.73,1.3,1.3,0,0,5,6,2
+2026-M006-AUS-TUR,Turkiye,Australia,Group Stage,1605.73,1579.34,2.5,1,0,0,5,2,0
+2026-M007-BRA-MAR,Brazil,Morocco,Group Stage,1765.86,1755.1,2.5,0.3,0,0,5,22,1
+2026-M007-BRA-MAR,Morocco,Brazil,Group Stage,1755.1,1765.86,2.2,1.1,0,0,5,6,1
+2026-M008-QAT-SUI,Qatar,Switzerland,Group Stage,1450.31,1650.06,0.7,0.8,0,0,5,1,1
+2026-M008-QAT-SUI,Switzerland,Qatar,Group Stage,1650.06,1450.31,2.2,1.5,0,0,5,12,1
+2026-M009-CIV-ECU,Côte d'Ivoire,Ecuador,Group Stage,1540.87,1598.52,1.9,0.5,0,0,5,3,1
+2026-M009-CIV-ECU,Ecuador,Côte d'Ivoire,Group Stage,1598.52,1540.87,1.2,0.8,0,0,5,4,0
+2026-M010-GER-CUW,Curaçao,Germany,Group Stage,1294.77,1735.77,1.9,0.8,0,0,5,0,1
+2026-M010-GER-CUW,Germany,Curaçao,Group Stage,1735.77,1294.77,2.8,1.4,0,0,5,20,7
+2026-M011-NED-JPN,Japan,Netherlands,Group Stage,1661.58,1753.57,1.9,0.8,0,0,5,7,2
+2026-M011-NED-JPN,Netherlands,Japan,Group Stage,1753.57,1661.58,2.2,0.6,0,0,5,11,2
+2026-M012-SWE-TUN,Sweden,Tunisia,Group Stage,1509.79,1476.41,1.3,1.4,0,0,5,12,5
+2026-M012-SWE-TUN,Tunisia,Sweden,Group Stage,1476.41,1509.79,1.3,2,0,0,5,6,1
+2026-M013-KSA-URU,Saudi Arabia,Uruguay,Group Stage,1423.88,1673.07,1.2,0.9,0,0,5,6,1
+2026-M013-KSA-URU,Uruguay,Saudi Arabia,Group Stage,1673.07,1423.88,1,1.3,0,0,5,14,1
+2026-M014-ESP-CPV,Cabo Verde,Spain,Group Stage,1371.11,1874.71,1.6,0.4,0,0,5,0,0
+2026-M014-ESP-CPV,Spain,Cabo Verde,Group Stage,1874.71,1371.11,2.8,1.2,0,0,5,16,0
+2026-M015-IRN-NZL,IR Iran,New Zealand,Group Stage,1619.58,1275.58,1.7,1.8,0,0,5,6,2
+2026-M015-IRN-NZL,New Zealand,IR Iran,Group Stage,1275.58,1619.58,0.7,0.6,0,0,5,2,2
+2026-M016-BEL-EGY,Belgium,Egypt,Group Stage,1742.24,1562.37,3.7,0.6,0,0,5,14,1
+2026-M016-BEL-EGY,Egypt,Belgium,Group Stage,1562.37,1742.24,1.3,0.6,0,0,5,3,1
+2026-M017-FRA-SEN,France,Senegal,Group Stage,1870.7,1684.07,2.5,0.9,0,0,5,16,3
+2026-M017-FRA-SEN,Senegal,France,Group Stage,1684.07,1870.7,1.6,0.9,0,0,5,3,1
+2026-M018-IRQ-NOR,Iraq,Norway,Group Stage,1446.28,1557.44,1.1,0.8,0,0,5,1,1
+2026-M018-IRQ-NOR,Norway,Iraq,Group Stage,1557.44,1446.28,3.1,1,0,0,5,3,4
+2026-M019-ARG-ALG,Algeria,Argentina,Group Stage,1571.03,1877.27,2.1,0.3,0,0,5,4,0
+2026-M019-ARG-ALG,Argentina,Algeria,Group Stage,1877.27,1571.03,2.5,0.4,0,0,5,18,3
+2026-M020-AUT-JOR,Austria,Jordan,Group Stage,1597.4,1387.74,2.7,1.5,0,0,5,7,3
+2026-M020-AUT-JOR,Jordan,Austria,Group Stage,1387.74,1597.4,1.7,0.4,0,0,5,0,1
+2026-M021-GHA-PAN,Ghana,Panama,Group Stage,1346.88,1539.16,1.1,1.6,0,0,5,4,1
+2026-M021-GHA-PAN,Panama,Ghana,Group Stage,1539.16,1346.88,1.8,1.4,0,0,5,1,0
+2026-M022-ENG-CRO,Croatia,England,Group Stage,1714.87,1828.02,1.9,0.2,0,0,5,6,2
+2026-M022-ENG-CRO,England,Croatia,Group Stage,1828.02,1714.87,2.4,1,0,0,5,16,4
+2026-M023-POR-COD,Congo DR,Portugal,Group Stage,1474.43,1767.85,1.1,0.9,0,0,5,1,1
+2026-M023-POR-COD,Portugal,Congo DR,Group Stage,1767.85,1474.43,2.6,0.5,0,0,5,8,1
+2026-M024-UZB-COL,Colombia,Uzbekistan,Group Stage,1698.35,1458.73,2.5,0.9,0,0,5,6,3
+2026-M024-UZB-COL,Uzbekistan,Colombia,Group Stage,1458.73,1698.35,1.4,1,0,0,5,0,1
+2026-M025-CZE-RSA,Czechia,South Africa,Group Stage,1505.74,1428.38,2.2,1,0,0,7,9,1
+2026-M025-CZE-RSA,South Africa,Czechia,Group Stage,1428.38,1505.74,1.5,0.9,0,0,7,3,1
+2026-M026-SUI-BIH,Bosnia and Herzegovina,Switzerland,Group Stage,1387.22,1650.06,2,0.8,0,0,6,1,1
+2026-M026-SUI-BIH,Switzerland,Bosnia and Herzegovina,Group Stage,1650.06,1387.22,2.2,1,0,0,5,12,4
+2026-M027-CAN-QAT,Canada,Qatar,Group Stage,1559.48,1450.31,1.1,1.5,1,0,6,2,6
+2026-M027-CAN-QAT,Qatar,Canada,Group Stage,1450.31,1559.48,0.7,0.4,0,0,5,1,0
+2026-M028-MEX-KOR,Korea Republic,Mexico,Group Stage,1591.63,1687.48,1.5,0.4,0,0,7,11,0
+2026-M028-MEX-KOR,Mexico,Korea Republic,Group Stage,1687.48,1591.63,1.6,1.2,1,0,7,17,1
+2026-M029-BRA-HAI,Brazil,Haiti,Group Stage,1765.86,1293.1,2.5,1,0,0,6,22,3
+2026-M029-BRA-HAI,Haiti,Brazil,Group Stage,1293.1,1765.86,1.5,1.1,0,0,6,1,0
+2026-M030-SCO-MAR,Morocco,Scotland,Group Stage,1755.1,1503.34,2.2,1,0,0,6,6,1
+2026-M030-SCO-MAR,Scotland,Morocco,Group Stage,1503.34,1755.1,2.1,0.3,0,0,6,8,0
+2026-M031-TUR-PAR,Paraguay,Turkiye,Group Stage,1505.35,1605.73,1.2,1.3,0,0,7,8,1
+2026-M031-TUR-PAR,Turkiye,Paraguay,Group Stage,1605.73,1505.35,2.5,1,0,0,6,2,0
+2026-M032-USA-AUS,Australia,USA,Group Stage,1579.34,1671.23,1.3,1.7,0,0,6,6,0
+2026-M032-USA-AUS,USA,Australia,Group Stage,1671.23,1579.34,1.8,1,1,0,7,11,2
+2026-M033-GER-CIV,Côte d'Ivoire,Germany,Group Stage,1540.87,1735.77,1.9,0.8,0,0,6,3,1
+2026-M033-GER-CIV,Germany,Côte d'Ivoire,Group Stage,1735.77,1540.87,2.8,0.8,0,0,6,20,2
+2026-M034-ECU-CUW,Curaçao,Ecuador,Group Stage,1294.77,1598.52,1.9,0.5,0,0,6,0,0
+2026-M034-ECU-CUW,Ecuador,Curaçao,Group Stage,1598.52,1294.77,1.2,1.4,0,0,6,4,0
+2026-M035-NED-SWE,Netherlands,Sweden,Group Stage,1753.57,1509.79,2.2,2,0,0,6,11,5
+2026-M035-NED-SWE,Sweden,Netherlands,Group Stage,1509.79,1753.57,1.3,0.8,0,0,6,12,1
+2026-M036-TUN-JPN,Japan,Tunisia,Group Stage,1661.58,1476.41,1.9,1.4,0,0,6,7,4
+2026-M036-TUN-JPN,Tunisia,Japan,Group Stage,1476.41,1661.58,1.3,0.6,0,0,6,6,0
+2026-M037-URU-CPV,Cabo Verde,Uruguay,Group Stage,1371.11,1673.07,1.6,0.9,0,0,6,0,2
+2026-M037-URU-CPV,Uruguay,Cabo Verde,Group Stage,1673.07,1371.11,1,1.2,0,0,6,14,2
+2026-M038-ESP-KSA,Saudi Arabia,Spain,Group Stage,1423.88,1874.71,1.2,0.4,0,0,6,6,0
+2026-M038-ESP-KSA,Spain,Saudi Arabia,Group Stage,1874.71,1423.88,2.8,1.3,0,0,6,16,4
+2026-M039-BEL-IRN,Belgium,IR Iran,Group Stage,1742.24,1619.58,3.7,0.6,0,0,6,14,0
+2026-M039-BEL-IRN,IR Iran,Belgium,Group Stage,1619.58,1742.24,1.7,0.6,0,0,6,6,0
+2026-M040-NZL-EGY,Egypt,New Zealand,Group Stage,1562.37,1275.58,1.3,1.8,0,0,6,3,3
+2026-M040-NZL-EGY,New Zealand,Egypt,Group Stage,1275.58,1562.37,0.7,0.6,0,0,6,2,1
+2026-M041-NOR-SEN,Norway,Senegal,Group Stage,1557.44,1684.07,3.1,0.9,0,0,6,3,3
+2026-M041-NOR-SEN,Senegal,Norway,Group Stage,1684.07,1557.44,1.6,0.8,0,0,6,3,2
+2026-M042-FRA-IRQ,France,Iraq,Group Stage,1870.7,1446.28,2.5,1,0,0,6,16,3
+2026-M042-FRA-IRQ,Iraq,France,Group Stage,1446.28,1870.7,1.1,0.9,0,0,6,1,0
+2026-M043-ARG-AUT,Argentina,Austria,Group Stage,1877.27,1597.4,2.5,0.4,0,0,6,18,2
+2026-M043-ARG-AUT,Austria,Argentina,Group Stage,1597.4,1877.27,2.7,0.3,0,0,6,7,0
+2026-M044-JOR-ALG,Algeria,Jordan,Group Stage,1571.03,1387.74,2.1,1.5,0,0,6,4,2
+2026-M044-JOR-ALG,Jordan,Algeria,Group Stage,1387.74,1571.03,1.7,0.4,0,0,6,0,1
+2026-M045-ENG-GHA,England,Ghana,Group Stage,1828.02,1346.88,2.4,1.4,0,0,6,16,0
+2026-M045-ENG-GHA,Ghana,England,Group Stage,1346.88,1828.02,1.1,0.2,0,0,6,4,0
+2026-M046-PAN-CRO,Croatia,Panama,Group Stage,1714.87,1539.16,1.9,1.6,0,0,6,6,1
+2026-M046-PAN-CRO,Panama,Croatia,Group Stage,1539.16,1714.87,1.8,1,0,0,6,1,0
+2026-M047-POR-GHA,Portugal,Uzbekistan,Group Stage,1767.85,1458.73,2.6,0.9,0,0,6,8,5
+2026-M047-POR-GHA,Uzbekistan,Portugal,Group Stage,1458.73,1767.85,1.4,0.9,0,0,6,0,0
+2026-M048-COL-COD,Colombia,Congo DR,Group Stage,1698.35,1474.43,2.5,0.5,0,0,6,6,1
+2026-M048-COL-COD,Congo DR,Colombia,Group Stage,1474.43,1698.35,1.1,1,0,0,6,1,0
+2026-M049-SCO-BRA,Brazil,Scotland,Group Stage,1765.86,1503.34,2.5,1,0,0,5,22,3
+2026-M049-SCO-BRA,Scotland,Brazil,Group Stage,1503.34,1765.86,2.1,1.1,0,0,5,8,0
+2026-M050-MAR-HAI,Haiti,Morocco,Group Stage,1293.1,1755.1,1.5,0.3,0,0,5,1,2
+2026-M050-MAR-HAI,Morocco,Haiti,Group Stage,1755.1,1293.1,2.2,1,0,0,5,6,4
+2026-M051-SUI-CAN,Canada,Switzerland,Group Stage,1559.48,1650.06,1.1,0.8,1,0,6,2,1
+2026-M051-SUI-CAN,Switzerland,Canada,Group Stage,1650.06,1559.48,2.2,0.4,0,0,6,12,2
+2026-M052-BIH-QAT,Bosnia and Herzegovina,Qatar,Group Stage,1387.22,1450.31,2,1.5,0,0,6,1,3
+2026-M052-BIH-QAT,Qatar,Bosnia and Herzegovina,Group Stage,1450.31,1387.22,0.7,1,0,0,6,1,1
+2026-M053-CZE-MEX,Czechia,Mexico,Group Stage,1505.74,1687.48,2.2,0.4,0,0,6,9,0
+2026-M053-CZE-MEX,Mexico,Czechia,Group Stage,1687.48,1505.74,1.6,0.9,1,0,6,17,3
+2026-M054-RSA-KOR,Korea Republic,South Africa,Group Stage,1591.63,1428.38,1.5,1,0,0,6,11,0
+2026-M054-RSA-KOR,South Africa,Korea Republic,Group Stage,1428.38,1591.63,1.5,1.2,0,0,6,3,1
+2026-M055-CUW-CIV,Curaçao,Côte d'Ivoire,Group Stage,1294.77,1540.87,1.9,0.8,0,0,5,0,0
+2026-M055-CUW-CIV,Côte d'Ivoire,Curaçao,Group Stage,1540.87,1294.77,1.9,1.4,0,0,5,3,2
+2026-M056-ECU-GER,Ecuador,Germany,Group Stage,1598.52,1735.77,1.2,0.8,0,0,5,4,2
+2026-M056-ECU-GER,Germany,Ecuador,Group Stage,1735.77,1598.52,2.8,0.5,0,0,5,20,1
+2026-M057-JPN-SWE,Japan,Sweden,Group Stage,1661.58,1509.79,1.9,2,0,0,5,7,1
+2026-M057-JPN-SWE,Sweden,Japan,Group Stage,1509.79,1661.58,1.3,0.6,0,0,5,12,1
+2026-M058-TUN-NED,Netherlands,Tunisia,Group Stage,1753.57,1476.41,2.2,1.4,0,0,5,11,3
+2026-M058-TUN-NED,Tunisia,Netherlands,Group Stage,1476.41,1753.57,1.3,0.8,0,0,5,6,1
+2026-M059-TUR-USA,Turkiye,USA,Group Stage,1605.73,1671.23,2.5,1.7,0,0,6,2,3
+2026-M059-TUR-USA,USA,Turkiye,Group Stage,1671.23,1605.73,1.8,1.3,1,0,6,11,2
+2026-M060-PAR-AUS,Australia,Paraguay,Group Stage,1579.34,1505.35,1.3,1,0,0,6,6,0
+2026-M060-PAR-AUS,Paraguay,Australia,Group Stage,1505.35,1579.34,1.2,1,0,0,6,8,0
+2026-M061-NOR-FRA,France,Norway,Group Stage,1870.7,1557.44,2.5,0.8,0,0,4,16,4
+2026-M061-NOR-FRA,Norway,France,Group Stage,1557.44,1870.7,3.1,0.9,0,0,4,3,1
+2026-M062-SEN-IRQ,Iraq,Senegal,Group Stage,1446.28,1684.07,1.1,0.9,0,0,4,1,0
+2026-M062-SEN-IRQ,Senegal,Iraq,Group Stage,1684.07,1446.28,1.6,1,0,0,4,3,5
+2026-M063-EGY-IRN,Egypt,IR Iran,Group Stage,1562.37,1619.58,1.3,0.6,0,0,5,3,1
+2026-M063-EGY-IRN,IR Iran,Egypt,Group Stage,1619.58,1562.37,1.7,0.6,0,0,5,6,1
+2026-M064-NZL-BEL,Belgium,New Zealand,Group Stage,1742.24,1275.58,3.7,1.8,0,0,5,14,5
+2026-M064-NZL-BEL,New Zealand,Belgium,Group Stage,1275.58,1742.24,0.7,0.6,0,0,5,2,1
+2026-M065-CPV-KSA,Cabo Verde,Saudi Arabia,Group Stage,1371.11,1423.88,1.6,1.3,0,0,5,0,0
+2026-M065-CPV-KSA,Saudi Arabia,Cabo Verde,Group Stage,1423.88,1371.11,1.2,1.2,0,0,5,6,0
+2026-M066-URU-ESP,Spain,Uruguay,Group Stage,1874.71,1673.07,2.8,0.9,0,0,5,16,1
+2026-M066-URU-ESP,Uruguay,Spain,Group Stage,1673.07,1874.71,1,0.4,0,0,5,14,0
+2026-M067-PAN-ENG,England,Panama,Group Stage,1828.02,1539.16,2.4,1.6,0,0,4,16,2
+2026-M067-PAN-ENG,Panama,England,Group Stage,1539.16,1828.02,1.8,0.2,0,0,4,1,0
+2026-M068-CRO-GHA,Croatia,Ghana,Group Stage,1714.87,1346.88,1.9,1.4,0,0,4,6,2
+2026-M068-CRO-GHA,Ghana,Croatia,Group Stage,1346.88,1714.87,1.1,1,0,0,4,4,1
+2026-M069-ALG-AUT,Algeria,Austria,Group Stage,1571.03,1597.4,2.1,0.4,0,0,5,4,3
+2026-M069-ALG-AUT,Austria,Algeria,Group Stage,1597.4,1571.03,2.7,0.4,0,0,5,7,3
+2026-M070-JOR-ARG,Argentina,Jordan,Group Stage,1877.27,1387.74,2.5,1.5,0,0,5,18,3
+2026-M070-JOR-ARG,Jordan,Argentina,Group Stage,1387.74,1877.27,1.7,0.3,0,0,5,0,1
+2026-M071-COL-POR,Colombia,Portugal,Group Stage,1698.35,1767.85,2.5,0.9,0,0,4,6,0
+2026-M071-COL-POR,Portugal,Colombia,Group Stage,1767.85,1698.35,2.6,1,0,0,4,8,0
+2026-M072-COD-UZB,Congo DR,Uzbekistan,Group Stage,1474.43,1458.73,1.1,0.9,0,0,4,1,3
+2026-M072-COD-UZB,Uzbekistan,Congo DR,Group Stage,1458.73,1474.43,1.4,0.5,0,0,4,0,1
+2026-M073-RSA-CAN,Canada,South Africa,Round of 32,1559.48,1428.38,1.1,1,1,1,4,2,1
+2026-M073-RSA-CAN,South Africa,Canada,Round of 32,1428.38,1559.48,1.5,0.4,0,1,4,3,0
+2026-M074-GER-PAR,Germany,Paraguay,Round of 32,1735.77,1505.35,2.8,1,0,1,4,20,1
+2026-M074-GER-PAR,Paraguay,Germany,Round of 32,1505.35,1735.77,1.2,0.8,0,1,4,8,1
+2026-M075-NED-MAR,Morocco,Netherlands,Round of 32,1755.1,1753.57,2.2,0.8,0,1,5,6,1
+2026-M075-NED-MAR,Netherlands,Morocco,Round of 32,1753.57,1755.1,2.2,0.3,0,1,4,11,1
+2026-M076-BRA-JPN,Brazil,Japan,Round of 32,1765.86,1661.58,2.5,0.6,0,1,5,22,2
+2026-M076-BRA-JPN,Japan,Brazil,Round of 32,1661.58,1765.86,1.9,1.1,0,1,4,7,1
+2026-M077-FRA-SWE,France,Sweden,Round of 32,1870.7,1509.79,2.5,2,0,1,4,16,3
+2026-M077-FRA-SWE,Sweden,France,Round of 32,1509.79,1870.7,1.3,0.9,0,1,5,12,0
+2026-M078-CIV-NOR,Côte d'Ivoire,Norway,Round of 32,1540.87,1557.44,1.9,0.8,0,1,5,3,1
+2026-M078-CIV-NOR,Norway,Côte d'Ivoire,Round of 32,1557.44,1540.87,3.1,0.8,0,1,4,3,2
+2026-M079-MEX-ECU,Ecuador,Mexico,Round of 32,1598.52,1687.48,1.2,0.4,0,1,5,4,0
+2026-M079-MEX-ECU,Mexico,Ecuador,Round of 32,1687.48,1598.52,1.6,0.5,1,1,6,17,2
+2026-M080-ENG-COD,Congo DR,England,Round of 32,1474.43,1828.02,1.1,0.2,0,1,4,1,1
+2026-M080-ENG-COD,England,Congo DR,Round of 32,1828.02,1474.43,2.4,0.5,0,1,4,16,2
+2026-M081-USA-BIH,Bosnia and Herzegovina,USA,Round of 32,1387.22,1671.23,2,1.7,0,1,7,1,0
+2026-M081-USA-BIH,USA,Bosnia and Herzegovina,Round of 32,1671.23,1387.22,1.8,1,1,1,6,11,2
+2026-M082-BEL-SEN,Belgium,Senegal,Round of 32,1742.24,1684.07,3.7,0.9,0,1,5,14,3
+2026-M082-BEL-SEN,Senegal,Belgium,Round of 32,1684.07,1742.24,1.6,0.6,0,1,5,3,2
+2026-M083-POR-CRO,Croatia,Portugal,Round of 32,1714.87,1767.85,1.9,0.9,0,1,5,6,1
+2026-M083-POR-CRO,Portugal,Croatia,Round of 32,1767.85,1714.87,2.6,1,0,1,5,8,2
+2026-M084-ESP-AUT,Austria,Spain,Round of 32,1597.4,1874.71,2.7,0.4,0,1,5,7,0
+2026-M084-ESP-AUT,Spain,Austria,Round of 32,1874.71,1597.4,2.8,0.4,0,1,6,16,3
+2026-M085-SUI-ALG,Algeria,Switzerland,Round of 32,1571.03,1650.06,2.1,0.8,0,1,5,4,0
+2026-M085-SUI-ALG,Switzerland,Algeria,Round of 32,1650.06,1571.03,2.2,0.4,0,1,8,12,2
+2026-M086-ARG-CPV,Argentina,Cabo Verde,Round of 32,1877.27,1371.11,2.5,1.2,0,1,6,18,3
+2026-M086-ARG-CPV,Cabo Verde,Argentina,Round of 32,1371.11,1877.27,1.6,0.3,0,1,7,0,2
+2026-M087-COL-GHA,Colombia,Ghana,Round of 32,1698.35,1346.88,2.5,1.4,0,1,6,6,1
+2026-M087-COL-GHA,Ghana,Colombia,Round of 32,1346.88,1698.35,1.1,1,0,1,6,4,0
+2026-M088-AUS-EGY,Australia,Egypt,Round of 32,1579.34,1562.37,1.3,0.6,0,1,8,6,1
+2026-M088-AUS-EGY,Egypt,Australia,Round of 32,1562.37,1579.34,1.3,1,0,1,7,3,1
+2026-M089-PAR-FRA,France,Paraguay,Round of 16,1870.7,1505.35,2.5,1,0,1,4,16,1
+2026-M089-PAR-FRA,Paraguay,France,Round of 16,1505.35,1870.7,1.2,0.9,0,1,5,8,0
+2026-M090-CAN-MAR,Canada,Morocco,Round of 16,1559.48,1755.1,1.1,0.3,1,1,6,2,0
+2026-M090-CAN-MAR,Morocco,Canada,Round of 16,1755.1,1559.48,2.2,0.4,0,1,5,6,3
+2026-M091-BRA-NOR,Brazil,Norway,Round of 16,1765.86,1557.44,2.5,0.8,0,1,6,22,1
+2026-M091-BRA-NOR,Norway,Brazil,Round of 16,1557.44,1765.86,3.1,1.1,0,1,5,3,2
+2026-M092-MEX-ENG,England,Mexico,Round of 16,1828.02,1687.48,2.4,0.4,0,1,4,16,3
+2026-M092-MEX-ENG,Mexico,England,Round of 16,1687.48,1828.02,1.6,0.2,1,1,5,17,2
+2026-M093-POR-ESP,Portugal,Spain,Round of 16,1767.85,1874.71,2.6,0.4,0,1,4,8,0
+2026-M093-POR-ESP,Spain,Portugal,Round of 16,1874.71,1767.85,2.8,0.9,0,1,4,16,1
+2026-M094-USA-BEL,Belgium,USA,Round of 16,1742.24,1671.23,3.7,1.7,0,1,5,14,4
+2026-M094-USA-BEL,USA,Belgium,Round of 16,1671.23,1742.24,1.8,0.6,1,1,5,11,1
+2026-M095-ARG-EGY,Argentina,Egypt,Round of 16,1877.27,1562.37,2.5,0.6,0,1,4,18,3
+2026-M095-ARG-EGY,Egypt,Argentina,Round of 16,1562.37,1877.27,1.3,0.3,0,1,4,3,2
+2026-M096-SUI-COL,Colombia,Switzerland,Round of 16,1698.35,1650.06,2.5,0.8,0,1,4,6,0
+2026-M096-SUI-COL,Switzerland,Colombia,Round of 16,1650.06,1698.35,2.2,1,0,1,5,12,0
+2026-M097-FRA-MAR,France,Morocco,Quarter-final,1870.7,1755.1,2.5,0.3,0,1,5,16,2
+2026-M097-FRA-MAR,Morocco,France,Quarter-final,1755.1,1870.7,2.2,0.9,0,1,5,6,0
+2026-M098-ESP-BEL,Belgium,Spain,Quarter-final,1742.24,1874.71,3.7,0.4,0,1,4,14,1
+2026-M098-ESP-BEL,Spain,Belgium,Quarter-final,1874.71,1742.24,2.8,0.6,0,1,4,16,2
+2026-M099-NOR-ENG,England,Norway,Quarter-final,1828.02,1557.44,2.4,0.8,0,1,6,16,2
+2026-M099-NOR-ENG,Norway,England,Quarter-final,1557.44,1828.02,3.1,0.2,0,1,6,3,1
+2026-M100-ARG-SUI,Argentina,Switzerland,Quarter-final,1877.27,1650.06,2.5,0.8,0,1,4,18,3
+2026-M100-ARG-SUI,Switzerland,Argentina,Quarter-final,1650.06,1877.27,2.2,0.3,0,1,4,12,1
+2026-M101-FRA-ESP,France,Spain,Semi-final,1870.7,1874.71,2.5,0.4,0,1,5,16,0
+2026-M101-FRA-ESP,Spain,France,Semi-final,1874.71,1870.7,2.8,0.9,0,1,4,16,2
+2026-M102-ENG-ARG,Argentina,England,Semi-final,1877.27,1828.02,2.5,0.2,0,1,4,18,2
+2026-M102-ENG-ARG,England,Argentina,Semi-final,1828.02,1877.27,2.4,0.3,0,1,4,16,1
+2026-M103-FRA-ENG,England,France,Bronze final,1828.02,1870.7,2.4,0.9,0,1,3,16,6
+2026-M103-FRA-ENG,France,England,Bronze final,1870.7,1828.02,2.5,0.2,0,1,4,16,4
+2026-M104-ESP-ARG,Argentina,Spain,Final,1877.27,1874.71,2.5,0.4,0,1,4,18,0
+2026-M104-ESP-ARG,Spain,Argentina,Final,1874.71,1877.27,2.8,0.3,0,1,5,16,1

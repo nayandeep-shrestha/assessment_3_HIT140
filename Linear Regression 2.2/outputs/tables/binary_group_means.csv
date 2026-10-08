@@ -1,0 +1,5 @@
+variable,level,mean_goals,sd,n
+is_host,0,1.44,1.384,193
+is_host,1,2.0,1.464,15
+is_knockout,0,1.493,1.468,144
+is_knockout,1,1.453,1.221,64
