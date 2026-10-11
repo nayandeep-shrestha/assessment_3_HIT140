@@ -1,0 +1,28 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           goals_scored   R-squared:                       0.247
+Model:                            OLS   Adj. R-squared:                  0.240
+Method:                 Least Squares   F-statistic:                     33.66
+Date:                Sun, 11 Oct 2026   Prob (F-statistic):           2.28e-13
+Time:                        20:16:39   Log-Likelihood:                -334.11
+No. Observations:                 208   AIC:                             674.2
+Df Residuals:                     205   BIC:                             684.2
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const                0.8065      1.231      0.655      0.513      -1.620       3.233
+team_fifa_points     0.0031      0.001      5.997      0.000       0.002       0.004
+opp_fifa_points     -0.0027      0.001     -5.196      0.000      -0.004      -0.002
+==============================================================================
+Omnibus:                       32.964   Durbin-Watson:                   1.974
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               50.727
+Skew:                           0.891   Prob(JB):                     9.66e-12
+Kurtosis:                       4.636   Cond. No.                     3.35e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.35e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

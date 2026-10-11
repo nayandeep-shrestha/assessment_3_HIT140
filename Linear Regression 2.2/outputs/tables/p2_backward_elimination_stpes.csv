@@ -1,0 +1,7 @@
+dropped,p_value,adj_R2_before_drop
+is_host,0.8376,0.2651
+is_knockout,0.5904,0.2696
+team_wc_appearances,0.4051,0.2728
+opp_ga_L10,0.2128,0.2742
+team_gf_L10,0.2075,0.2717
+rest_days,0.1383,0.269
