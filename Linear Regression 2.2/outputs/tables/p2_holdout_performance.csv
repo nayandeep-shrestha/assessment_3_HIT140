@@ -1,0 +1,5 @@
+model,set,R2,Adj_R2,RMSE,MAE
+OLS(8 predictors),train,0.301,0.265,1.169,0.884
+OLS(8 predictors),test,-0.004,-0.248,1.274,1.013
+Baseline (train mean),train,0.0,0.0,1.397,1.129
+Baseline (train mean),test,-0.182,-0.182,1.383,1.158
