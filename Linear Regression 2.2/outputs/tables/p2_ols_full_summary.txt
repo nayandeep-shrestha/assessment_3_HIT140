@@ -1,0 +1,34 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           goals_scored   R-squared:                       0.285
+Model:                            OLS   Adj. R-squared:                  0.257
+Method:                 Least Squares   F-statistic:                     9.934
+Date:                Mon, 12 Oct 2026   Prob (F-statistic):           1.32e-11
+Time:                        12:36:34   Log-Likelihood:                -328.70
+No. Observations:                 208   AIC:                             675.4
+Df Residuals:                     199   BIC:                             705.4
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                   2.0268      1.999      1.014      0.312      -1.915       5.969
+team_fifa_points        0.0017      0.001      1.789      0.075      -0.000       0.004
+opp_fifa_points        -0.0021      0.001     -3.244      0.001      -0.003      -0.001
+team_gf_L10             0.3262      0.168      1.944      0.053      -0.005       0.657
+opp_ga_L10              0.3637      0.239      1.523      0.129      -0.107       0.834
+is_host                 0.6175      0.344      1.796      0.074      -0.061       1.296
+is_knockout            -0.1882      0.211     -0.890      0.374      -0.605       0.229
+rest_days              -0.1782      0.107     -1.671      0.096      -0.388       0.032
+team_wc_appearances     0.0172      0.022      0.791      0.430      -0.026       0.060
+==============================================================================
+Omnibus:                       23.993   Durbin-Watson:                   1.971
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               31.756
+Skew:                           0.743   Prob(JB):                     1.27e-07
+Kurtosis:                       4.207   Cond. No.                     5.51e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.51e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

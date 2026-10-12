@@ -1,0 +1,9 @@
+test,statistic,p_value,reading
+Shapiro_Wilk normality of residuals,W=0.967,0.0001,p<0.05 -> residuals not normal
+Residual skewness / excess kurtosis,0.74 / 1.21,,0 / 0 for a normal distribution
+Breusch-Pagan heteroscedasticity,LM = 18.18,0.0199,p < 0.05 -> non-constant variance
+Durbin-Watson (row order),1.97,,~2 means no serial correlation (row order is arbitrary here)
+Correlation of the two residuals within a match,0.180,,far from 0 -> rows not independent
+Observations with Cook's D > 4/n,12,,threshold = 0.0192
+Observations with leverage > 2(k+1)/n,14,,threshold = 0.0865
+Observations with |studentised resid| > 3,3,,possible outliers
