@@ -1,3 +1,3 @@
 model,Adj_R2_all_data,AIC,BIC,test_RMSE,test_R2,CV_RMSE,CV_R2
-Full (8 predictors),0.257,675.403,705.441,1.274,-0.004,1.225,0.185
-Reduced (2 predictors),0.24,674.226,684.239,1.3,-0.046,1.222,0.196
+Full (8 predictors),0.257,675.403,705.441,1.274,-0.004,1.23,0.207
+Reduced (2 predictors),0.24,674.226,684.239,1.3,-0.046,1.215,0.227
