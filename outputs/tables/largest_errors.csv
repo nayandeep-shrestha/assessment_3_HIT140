@@ -1,0 +1,9 @@
+match_id,team_a,team_b,stage,goal_difference,predicted,error
+M062,Iraq,Senegal,Group stage,-5,-0.45,-4.55
+M012,Sweden,Tunisia,Group stage,4,0.39,3.61
+M027,Canada,Qatar,Group stage,6,2.65,3.35
+M045,Portugal,Uzbekistan,Group stage,5,1.72,3.28
+M009,Curaçao,Germany,Group stage,-6,-2.78,-3.22
+M046,England,Ghana,Group stage,0,3.04,-3.04
+M014,Cape Verde,Spain,Group stage,0,-2.8,2.8
+M005,Qatar,Switzerland,Group stage,0,-2.79,2.79

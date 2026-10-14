@@ -1,0 +1,13 @@
+,value
+Test R2,0.367
+Test RMSE,1.764
+Test MAE,1.492
+Baseline RMSE,2.292
+CV mean R2,0.319
+CV R2 std,0.222
+CV mean RMSE,1.605
+Full-data R2,0.487
+Full-data adj R2,0.443
+Shapiro p,0.428
+Breusch-Pagan p,0.651
+Durbin-Watson,2.549
